@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nav Drawer</string>
+    <string name="navigation_drawer_open">Open Drawer</string>
+    <string name="navigation_drawer_close">Close Drawer</string>
+    <string name="nav_header_title">Inixindo Surabaya</string>
+    <string name="nav_header_subtitle">rizal@inixindosurabaya.id</string>
+    <string name="nav_header_desc">Learn Android Programming</string>
+    <string name="action_settings">Settings</string>
+    <string name="gallery">Gallery</string>
+    <string name="slideshow">Slideshow</string>
+    <string name="tools">Tools</string>
+    <string name="share">Share</string>
+    <string name="send">Send</string>
+    <string name="setting">Setting</string>
+    <string name="hello">Hello Inixindo</string>
+</resources>
